@@ -1,7 +1,7 @@
-Happy Birthday with Images - Solution Code
-==========================================
+Add images to your Android app - Solution Code
+==============================================
 
-Solution code for the Android Basics in Kotlin: Add an image to your Birthday Card App codelab.
+Solution code for the Android Basics in Kotlin: Add images to your Android app codelab.
 
 Introduction
 ------------
